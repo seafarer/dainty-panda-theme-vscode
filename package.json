@@ -3,10 +3,14 @@
 	"displayName": "Dainty – Panda Theme",
 	"description": "25 variations of slightly modified Panda Theme",
 	"version": "1.0.2",
-	"publisher": "alexanderte",
+	"publisher": "seafarer",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
+  "author": "Alexander Teinum",
+  "contributors": [
+    { "name": "Colin OBrien", "url": "https://github.com/seafarer" }
+  ],
 	"scripts": {
 		"build": "node src/index.js",
 		"vscode:prepublish": "node src/prepublish.js",
@@ -14,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alexanderte/dainty-panda-theme-vscode"
+		"url": "https://github.com/seafarer/dainty-panda-theme-vscode"
 	},
 	"icon": "assets/logo-icon.png",
 	"categories": [
@@ -165,7 +169,7 @@
 	"__metadata": {
 		"id": "7923db3e-5249-4c3c-9449-8035cfffe969",
 		"publisherId": "8fd32a64-6d85-4818-ac27-a0a61ee9f612",
-		"publisherDisplayName": "alexanderte",
+		"publisherDisplayName": "seafarer",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,
